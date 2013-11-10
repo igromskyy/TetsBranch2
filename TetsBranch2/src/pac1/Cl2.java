@@ -9,6 +9,7 @@ public class Cl2 {
 		System.out.println("c1-2");
 		System.out.println("c1-3");
 		System.out.println("c1-4");
+		System.out.println("c1-6");
 	}
 
 }
