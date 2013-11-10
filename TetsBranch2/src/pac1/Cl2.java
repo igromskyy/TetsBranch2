@@ -6,6 +6,7 @@ public class Cl2 {
 		System.out.println("y1-2");
 		
 		System.out.println("c1-1");
+		System.out.println("c1-2");
 	}
 
 }
