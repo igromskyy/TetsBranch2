@@ -10,6 +10,7 @@ public class Cl2 {
 		System.out.println("z1-3");
 		System.out.println("z1-4");
 		System.out.println("z1-5");
+		System.out.println("z1-6");
 	}
 
 }
