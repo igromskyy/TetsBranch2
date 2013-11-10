@@ -5,12 +5,7 @@ public class Cl2 {
 		System.out.println("y1");
 		System.out.println("y1-2");
 		
-		System.out.println("z1-1");
-		System.out.println("z1-2");
-		System.out.println("z1-3");
-		System.out.println("z1-4");
-		System.out.println("z1-5");
-		System.out.println("z1-6");
+		System.out.println("w1-1");
 	}
 
 }
