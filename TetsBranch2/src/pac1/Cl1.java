@@ -9,6 +9,7 @@ public class Cl1 {
 
 
 		System.out.println("z1");
+		System.out.println("z1-2");
 
 	}
 
