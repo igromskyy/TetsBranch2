@@ -7,9 +7,8 @@ public class Cl1 {
 		System.out.println("test1 add line");
 		System.out.println("test1 add line1");
 
-		System.out.println("x1");
-		System.out.println("x1-1");
-		System.out.println("x1-2");
+		System.out.println("w1");
+		
 
 	}
 
