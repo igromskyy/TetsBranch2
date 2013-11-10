@@ -13,8 +13,9 @@ public class Cl1 {
 		System.out.println("z1-3");
 		System.out.println("z1-4");
 		System.out.println("z1-5");
-		
+
 		System.out.println("v1-1");
+		System.out.println("v2-1");
 
 	}
 
