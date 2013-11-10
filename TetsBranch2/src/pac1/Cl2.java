@@ -11,7 +11,7 @@ public class Cl2 {
 
 		System.out.println("c1-4");
 		System.out.println("c1-5");
-		System.out.println("c1-6");
+		System.out.println("c1-8");
 	}
 
 }
